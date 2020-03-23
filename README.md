@@ -1,0 +1,1 @@
+# Azure-Zure-Trust-Template
